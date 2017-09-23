@@ -6,6 +6,7 @@ MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{68354107-90A5-4653-801B-47C6B8995305}"
 	ProjectSection(SolutionItems) = preProject
 		CircleByTurning.st = CircleByTurning.st
+		CreateWindowAndReturnPen.st = CreateWindowAndReturnPen.st
 		DelayExamples.st = DelayExamples.st
 		DottedLine.st = DottedLine.st
 		FormCanvasLine.st = FormCanvasLine.st
